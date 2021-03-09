@@ -1,0 +1,9 @@
+div h1 {
+  margin: 20px 30px
+  font-family: verdana;
+  font-size: 200%;
+  color: white;
+  position: center;
+  height: 100px;
+  text-align: center;
+}

@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+	position: pixed;
+	
+}
+
+body {
+	background-image: url(img/asd.jpg);
+	background-size: cover;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  height: 70px;
+  opacity: 0.6;
+}
+
+li {
+
+  float: right;
+  width: 200px;
+  font-size: 20px;
+  margin: 0px ;
+  padding: 20px;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+  
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   opacity: 0.8;
+   font-size: large;
+
+
